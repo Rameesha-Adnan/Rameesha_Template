@@ -8,29 +8,29 @@ import { FaGithub } from "react-icons/fa6";
 // You can also add more properties if you want to display more information about your projects.
 const myProjects = [
   {
-    title: 'Project 1',
-    description: 'Description of project 1',
-    repositoryLink: 'Link to the GitHub repository',
+    title: 'IT Team Members Webpage',
+    description: 'This project is a straightforward HTML webpage aimed at managing IT team members. It facilitates the addition of new members and showcases a list of existing team members.',
+    repositoryLink: 'https://github.com/Rameesha-Adnan/Path2Tech_HTML_Project.git',
   },
   {
-    title: 'Project 2',
-    description: 'Description of project 2',
-    repositoryLink: 'Link to the GitHub repository',
+    title: 'Email Template Webpage',
+    description: 'The Email Template Webpage is a user-friendly interface that enhances the email viewing experience. It features a dynamic design for structured and visually appealing email displays.',
+    repositoryLink: 'https://github.com/Rameesha-Adnan/Path2Tech_CSS_Project.git',
   },
   {
-    title: 'Project 3',
-    description: 'Description of project 3',
-    repositoryLink: 'Link to the GitHub repository',
+    title: 'TODO List Project',
+    description: 'The TODO List is a JavaScript Project that lets users manage tasks and track progress, showcasing JavaScript skills in dynamic content handling.',
+    repositoryLink: 'https://github.com/Rameesha-Adnan/JS.Project.git',
   },
   {
-    title: 'Project 4',
-    description: 'Description of project 4',
-    repositoryLink: 'Link to the GitHub repository',
+    title: 'Book Store Project',
+    description: 'The Book Store Website is an interactive application built with HTML, CSS, and JavaScript. It enhances client-side development skills by allowing users to explore and manage books dynamically through the DOM.',
+    repositoryLink: 'https://github.com/kiaraaa123/group5-dom-project.git',
   },
   {
-    title: 'Project 5',
-    description: 'Description of project 5',
-    repositoryLink: 'Link to the GitHub repository',
+    title: 'The Weather App',
+    description: 'The Weather Application is a React-based project that fetches data from the OpenWeatherAPI to display real-time weather for a selected location. It reinforces React fundamentals, including components, props, event handling, forms, API calls, and basic hooks.',
+    repositoryLink: 'https://github.com/Rameesha-Adnan/Weather-app-project.git',
   },
 ];
 const Projects = () => {
